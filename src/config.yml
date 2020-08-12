@@ -1,0 +1,16 @@
+INT_GAME_TIME: 500
+INT_LOBBY_TIME: 60
+KILL_POINT: 80
+
+mysql:
+  host: localhost
+  port: 3306
+  name: mc_tdm
+  user: root
+  pass: 1234
+
+lobby:
+team1:
+team2:
+team3:
+team4:

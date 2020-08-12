@@ -1,0 +1,15 @@
+name: TeamDeathMatch
+main: net.devras.tdm.Game
+version: 1.0.0
+author: kemasama
+description: TeamDeathMatch
+softdepend: [Multiverse-Core]
+
+commands:
+  tdm:
+    permission: tdm.admin
+    aliases: [teamdeathmatch]
+
+permissions:
+  tdm.admin:
+    default: op
